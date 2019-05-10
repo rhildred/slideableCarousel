@@ -6,7 +6,7 @@ To run this:
 
 1. clone or download this repository
 1. `npm install`
-1. `npm start` by default listens on port 3000 or $port
+1. `npm start` by default listens on port 3000 or $PORT
 1. run `npm restart` after making changes
 1. run `npm stop` to stop altogether and use the port for something else
 1. run `npm run log` to see the logs
