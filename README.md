@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/rhildred/slideableCarousel">Slide-able Carousel</a>
+<h1><a href="https://github.com/rhildred/slideableCarousel">Slide-able Carousel</a></h1>
 
 I couldn't find an example that tied everything that I needed to do together. This example also has process management with [pm2](http://pm2.keymetrics.io/) and [parcel-bundler](https://parceljs.org/).
 
